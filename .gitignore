@@ -1,6 +1,0 @@
-
-*
-!compiler/bin
-!compiler/lib
-!compiler/test
-!compiler/dune-project
