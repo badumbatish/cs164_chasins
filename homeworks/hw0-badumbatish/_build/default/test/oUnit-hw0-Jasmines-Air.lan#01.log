@@ -1,0 +1,9 @@
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: Start test hw0:0:square.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: Test hw0:0:square is successful.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: End test hw0:0:square.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: Start test hw0:2:babylonian.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: Test hw0:2:babylonian is successful.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: End test hw0:2:babylonian.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: Start test hw0:4:newton_step.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: Test hw0:4:newton_step is successful.
+2024-05-27T02:32:17+00:00 Jasmines-Air.lan#01 I: End test hw0:4:newton_step.
