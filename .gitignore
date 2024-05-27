@@ -1,6 +1,6 @@
 
 *
-!.gitignore
-!compiler
-compiler/_build
-!compiler/**
+!compiler/bin
+!compiler/lib
+!compiler/test
+!compiler/dune-project
